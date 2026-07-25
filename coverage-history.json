@@ -474,6 +474,61 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-07-25",
+      "highlights": [
+        {
+          "title": "OpenAI expande o ChatGPT Health para todos os usuários adultos nos EUA",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://openai.com/index/health-in-chatgpt/",
+          "secondary_urls": [
+            "https://dataconomy.com/2026/07/24/openai-chatgpt-health-launch-us-users/"
+          ]
+        },
+        {
+          "title": "IA conversacional do Google supera médicos em diagnóstico diferencial em estudo com quase 14 mil pacientes reais",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.techtimes.com/articles/321455/20260724/google-ai-outdiagnoses-doctors-study-nearly-14000-real-patients.htm",
+          "secondary_urls": [
+            "https://arxiv.org/abs/2605.04012",
+            "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/"
+          ]
+        },
+        {
+          "title": "Anthropic lança Claude Opus 5, novo modelo de topo para tarefas longas",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/claude-opus-5",
+          "secondary_urls": [
+            "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks",
+            "https://9to5mac.com/2026/07/24/anthropic-upgrades-claude-with-new-opus-5-model-details-here/"
+          ]
+        },
+        {
+          "title": "Anthropic fecha acordo de até 2 gigawatts em GPUs com a AMD",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Negócios",
+          "primary_url": "https://siliconangle.com/2026/07/22/anthropic-buy-two-gigawatts-gpu-capacity-amd/",
+          "secondary_urls": [
+            "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html"
+          ]
+        },
+        {
+          "title": "Claude Cowork ganha recurso para aprender tarefas por gravação de tela",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://dataconomy.com/2026/07/22/anthropic-teach-claude-screen-recording-feature/",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
