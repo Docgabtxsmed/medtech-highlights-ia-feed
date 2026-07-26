@@ -529,6 +529,39 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-07-26",
+      "highlights": [
+        {
+          "title": "Ensaio clínico randomizado valida sistema de IA para diagnóstico de doenças retinianas hereditárias",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.nature.com/articles/s41591-026-04545-w",
+          "secondary_urls": [
+            "https://www.clinicaltrialvanguard.com/article/article-deep-dive/the-inherited-retinal-disease-trial-that-should-change-how-sponsors-think-about-ai-diagnostic-evidence/"
+          ]
+        },
+        {
+          "title": "Casa Branca anuncia primeiros vencedores da Genesis Mission, iniciativa de IA para acelerar a ciência dos EUA",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.nature.com/articles/d41586-026-02332-8",
+          "secondary_urls": []
+        },
+        {
+          "title": "BAAI apresenta AREX, agente de pesquisa profunda que audita e refina suas próprias respostas",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2607.21461",
+          "secondary_urls": [
+            "https://huggingface.co/papers/2607.21461"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
