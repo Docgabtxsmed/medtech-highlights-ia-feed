@@ -562,12 +562,69 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-27",
+      "highlights": [
+        {
+          "title": "HOPPR lança modelo de fundação de IA para tomografia de tórax",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.hoppr.ai/news/chicago-il-july-23-2026-hoppr-a-company-focused-on-transforming-how-ai-ishoppr-ef-chest-ct-narrative-model-a-foundation-model/",
+          "secondary_urls": [
+            "https://www.prnewswire.com/news-releases/hoppr-brings-ai-foundation-models-to-chest-ct-expanding-developer-access-across-its-growing-medical-imaging-portfolio-302832760.html",
+            "https://www.dicardiology.com/content/hoppr-introduces-new-ai-model-chest-ct-exams"
+          ]
+        },
+        {
+          "title": "Moonshot AI libera pesos abertos do Kimi K3, maior lançamento open-weight da história",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "secondary_urls": [
+            "https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3",
+            "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html"
+          ]
+        },
+        {
+          "title": "Novo benchmark expõe fragilidade de LLMs no diagnóstico materno-infantil (MamaBench)",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2607.14385",
+          "secondary_urls": [
+            "https://huggingface.co/datasets/nmrenyi/mamabench",
+            "https://techcabal.com/2026/07/22/helpmum-africa-releases-helpmum-mamabench-a-counterfactual-benchmark-for-maternal-and-paediatric-ai/"
+          ]
+        },
+        {
+          "title": "LangChain sistematiza a 'engenharia de grafos' para orquestrar agentes de IA",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.langchain.com/blog/3-years-of-graph-engineering-with-langgraph",
+          "secondary_urls": []
+        },
+        {
+          "title": "Jack Dorsey lança Buzz, workspace open-source para times de humanos e agentes de IA",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://block.xyz/inside/introducing-buzz-where-humans-and-agents-work-together",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+            "https://engineering.block.xyz/blog/buzz"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
     "medicina": {
-      "last_report": "2026-07-20",
-      "last_edition": 1
+      "last_report": "2026-07-27",
+      "last_edition": 2
     },
     "tech": {
       "last_report": "2026-07-22",
