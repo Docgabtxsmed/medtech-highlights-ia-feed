@@ -7,6 +7,16 @@
   },
   "episodes": [
     {
+      "guid": "episode-2026-07-27",
+      "date": "2026-07-27",
+      "trilha": "medicina",
+      "title": "Highlights IA — Medicina & Pesquisa — 27 de julho de 2026",
+      "duration_seconds": 1038,
+      "size_bytes": 33409193,
+      "enclosure_url": "https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-07-27-medicina-podcast.m4a",
+      "object_key": "highlights-ia-2026-07-27-medicina-podcast.m4a"
+    },
+    {
       "guid": "episode-2026-07-24",
       "date": "2026-07-24",
       "trilha": "misc",
