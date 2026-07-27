@@ -451,6 +451,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Medicina &amp; Pesquisa — 27 de julho de 2026</title>
+      <description><![CDATA[Nesta edição: um agente de IA do Google (SymptomAI) é comparado a médicos em diagnóstico diferencial, mas ainda é preprint; um ensaio clínico randomizado publicado na Nature Medicine valida um sistema de IA (Retina4IRD) para doenças retinianas hereditárias; e mais destaques em saúde e IA da semana. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-07-27</link>
+      <guid isPermaLink="false">episode-2026-07-27</guid>
+      <pubDate>Mon, 27 Jul 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-07-27-medicina-podcast.m4a" length="33409193" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>17:18</itunes:duration>
+      <itunes:summary><![CDATA[Nesta edição: um agente de IA do Google (SymptomAI) é comparado a médicos em diagnóstico diferencial, mas ainda é preprint; um ensaio clínico randomizado publicado na Nature Medicine valida um sistema de IA (Retina4IRD) para doenças retinianas hereditárias; e mais destaques em saúde e IA da semana. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
