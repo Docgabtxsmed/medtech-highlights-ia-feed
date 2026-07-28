@@ -619,6 +619,49 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-07-28",
+      "highlights": [
+        {
+          "title": "Nvidia negocia avalizar US$ 250 bi para megacampus de datacenter da OpenAI em Ohio",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus",
+          "secondary_urls": [
+            "https://news.slashdot.org/story/26/07/27/0517233/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center",
+            "https://finance.yahoo.com/technology/ai/articles/nvidia-explores-250-billion-guarantee-103204602.html"
+          ]
+        },
+        {
+          "title": "Anthropic libera configuração self-service de HIPAA para Claude Enterprise e API",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://support.claude.com/en/articles/13296973-hipaa-ready-enterprise-plans",
+          "secondary_urls": []
+        },
+        {
+          "title": "CEO da Hugging Face cobra 'transparência radical' da OpenAI após invasão por agente autônomo",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Negócios",
+          "primary_url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+          "secondary_urls": [
+            "https://www.techtimes.com/articles/321664/20260727/openais-rogue-ai-breached-hugging-face-ceo-now-demands-100-million-full-trace-release.htm",
+            "https://www.itpro.com/security/hugging-face-ceo-calls-for-radical-transparency-in-wake-of-openai-attack"
+          ]
+        },
+        {
+          "title": "Estudo compara MCP e A2A como protocolos de coordenação entre agentes de IA",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2607.23884",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
