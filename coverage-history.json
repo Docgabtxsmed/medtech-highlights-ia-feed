@@ -662,6 +662,71 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-07-29",
+      "highlights": [
+        {
+          "title": "Nvidia lança Open Secure AI Alliance",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+          "secondary_urls": [
+            "https://www.helpnetsecurity.com/2026/07/27/nvidia-open-secure-ai-alliance/",
+            "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html"
+          ]
+        },
+        {
+          "title": "MCP lança especificação 2026-07-28",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+          "secondary_urls": [
+            "https://workos.com/blog/mcp-2026-spec-agent-authentication"
+          ]
+        },
+        {
+          "title": "Framework proposto para testar 'superinteligência médica' de IA (MAST)",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.nature.com/articles/s41591-026-04539-8",
+          "secondary_urls": [
+            "https://arise-ai.org/mast"
+          ]
+        },
+        {
+          "title": "Treinamento em IA não acompanha adoção, aponta Conference Board",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.conference-board.org/publications/reimagined-workplace-2026-adopting-AI-today-poised-for-tomorrow",
+          "secondary_urls": [
+            "https://www.prnewswire.com/news-releases/report-most-organizations-are-preparing-workers-for-todays-ai-not-tomorrows-jobs-302836842.html"
+          ]
+        },
+        {
+          "title": "Professor usa 'armadilha' de prompt para flagrar uso de IA em prova",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.theregister.com/ai-and-ml/2026/07/28/college-prof-hides-prompt-to-catch-ai-cheaters-finds-human-nature-is-pretty-much-as-we-thought/",
+          "secondary_urls": [
+            "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+            "https://cybernews.com/ai-news/prompt-trap-students-caught-cheating-ai/"
+          ]
+        },
+        {
+          "title": "StateAct: agentes de computador que raciocinam sobre estado, não pixels",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2607.22798",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
@@ -670,8 +735,8 @@
       "last_edition": 2
     },
     "tech": {
-      "last_report": "2026-07-22",
-      "last_edition": 1
+      "last_report": "2026-07-29",
+      "last_edition": 2
     },
     "misc": {
       "last_report": "2026-07-24",
