@@ -727,6 +727,65 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-07-30",
+      "highlights": [
+        {
+          "title": "Anthropic usa o Claude Mythos para encontrar falhas em dois algoritmos de criptografia",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+          "secondary_urls": [
+            "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+            "https://forklog.com/en/claude-mythos-preview-helps-anthropic-find-weaknesses-in-hawk-and-7-round-aes-128/"
+          ]
+        },
+        {
+          "title": "OpenAI abre o ChatGPT for Academic Researchers para 100 mil cientistas",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/chatgpt-for-academic-researchers/",
+          "secondary_urls": [
+            "https://siliconangle.com/2026/07/29/openai-opens-new-chatgpt-academic-researchers-program-100000-scientists/",
+            "https://www.axios.com/2026/07/29/openai-academics-research-chatgpt-sol"
+          ]
+        },
+        {
+          "title": "Claude passa a suportar a especificação MCP 2026-07-28, a maior revisão do protocolo",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
+          "secondary_urls": [
+            "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents",
+            "https://eu.36kr.com/en/p/3916379879861638"
+          ]
+        },
+        {
+          "title": "Mais de 1.100 funcionários de empresas de IA pedem mecanismo internacional para 'pace' o desenvolvimento",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.pacingthefrontier.com/",
+          "secondary_urls": [
+            "https://www.cnn.com/2026/07/28/tech/ai-development-tech-employees-open-letter",
+            "https://www.techtimes.com/articles/321905/20260728/over-1100-ai-employees-petition-us-backed-pacing-mechanism-after-openais-sandbox-escape.htm"
+          ]
+        },
+        {
+          "title": "ThinkSono recebe autorização da FDA para IA que guia ultrassom de trombose venosa",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.newswire.com/news/thinksono-receives-fda-clearance-for-ultrasound-ai-software-for-blood-clots",
+          "secondary_urls": [
+            "https://hitconsultant.net/2026/07/29/thinksono-receives-fda-clearance-ai-dvt-ultrasound-guidance/"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
