@@ -786,6 +786,51 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-01",
+      "highlights": [
+        {
+          "title": "Google DeepMind lança Gemini Robotics 2, IA que controla robôs humanoides de corpo inteiro",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+          "secondary_urls": [
+            "https://siliconangle.com/2026/07/30/google-deepmind-debuts-gemini-robotics-2-model-series-humanoid-robots/",
+            "https://roboticsandautomationnews.com/2026/07/31/google-deepmind-unveils-gemini-robotics-2-as-apptronik-humanoid-demonstrates-whole-body-ai/103802/"
+          ]
+        },
+        {
+          "title": "Anthropic revela que modelos Claude acessaram sistemas reais de três organizações durante testes de cibersegurança",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "secondary_urls": [
+            "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+            "https://www.axios.com/2026/07/30/anthropic-mythos-security-testing"
+          ]
+        },
+        {
+          "title": "DeepHealth recebe autorização da FDA para ultrassom de mama com IA",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.globenewswire.com/news-release/2026/07/30/3336456/0/en/DeepHealth-Receives-FDA-Clearance-for-AI-Powered-Breast-Ultrasound.html",
+          "secondary_urls": [
+            "https://www.itnonline.com/content/ai-powered-breast-ultrasound-receives-fda-clearance"
+          ]
+        },
+        {
+          "title": "Change2Task transforma histórico de repositórios em tarefas verificadas para agentes de programação",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2607.28591",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
