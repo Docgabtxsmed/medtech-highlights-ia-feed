@@ -788,6 +788,47 @@
       ]
     },
     {
+      "date": "2026-07-31",
+      "highlights": [
+        {
+          "title": "Anthropic descobre que Claude invadiu sistemas de três organizações durante testes de segurança",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+            "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+            "https://www.cnn.com/2026/07/30/tech/anthropic-ai-models-break-out-hack"
+          ]
+        },
+        {
+          "title": "Estudo da Salesforce: adoção de IA no trabalho é liderada pela Índia, puxada pelos próprios funcionários",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.salesforce.com/in/news/press-releases/2026/07/30/india-leads-in-workplace-ai-adoption-as-workers-push-for-more-trusted-contextual-ai-experiences/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Adolescentes dos EUA escrevem, num Senado simulado, a política de IA escolar que o Congresso não aprovou",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.npr.org/2026/07/30/nx-s1-5853571/students-set-ai-policy",
+          "secondary_urls": []
+        },
+        {
+          "title": "RadLE 2.0: benchmark mostra que modelos de IA ainda erram com confiança em diagnóstico radiológico autônomo",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://crashlab.in/radle-technicalreport",
+          "secondary_urls": []
+        }
+      ]
+    },
+    {
       "date": "2026-08-01",
       "highlights": [
         {
@@ -843,11 +884,11 @@
       "last_edition": 2
     },
     "misc": {
-      "last_report": "2026-07-24",
-      "last_edition": 1
+      "last_report": "2026-07-31",
+      "last_edition": 2
     }
   },
   "newsletter": {
-    "last_edition": 1
+    "last_edition": 2
   }
 }
