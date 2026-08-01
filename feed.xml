@@ -479,6 +479,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Miscelânea — 31 de julho de 2026</title>
+      <description><![CDATA[Neste episódio, a adoção de IA no trabalho cresce mais rápido do que a capacidade das empresas de treinar seus times, segundo dados do Conference Board e da Salesforce. Mais de 1.300 funcionários de empresas de IA assinam a carta 'Pacing the Frontier', pedindo um mecanismo de desaceleração deliberada no desenvolvimento da fronteira tecnológica. Completam a trilha o buzz em torno de Jack Dorsey, a Genesis Mission e uma política de IA escolar redigida por estudantes. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-07-31</link>
+      <guid isPermaLink="false">episode-2026-07-31</guid>
+      <pubDate>Fri, 31 Jul 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-07-31-misc-podcast.m4a" length="43888742" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>22:44</itunes:duration>
+      <itunes:summary><![CDATA[Neste episódio, a adoção de IA no trabalho cresce mais rápido do que a capacidade das empresas de treinar seus times, segundo dados do Conference Board e da Salesforce. Mais de 1.300 funcionários de empresas de IA assinam a carta 'Pacing the Frontier', pedindo um mecanismo de desaceleração deliberada no desenvolvimento da fronteira tecnológica. Completam a trilha o buzz em torno de Jack Dorsey, a Genesis Mission e uma política de IA escolar redigida por estudantes. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
