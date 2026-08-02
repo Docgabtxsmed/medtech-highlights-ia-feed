@@ -872,6 +872,53 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-08-02",
+      "highlights": [
+        {
+          "title": "OpenAI corta em até 80% os preços da API do GPT-5.6 Luna e Terra",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+          "secondary_urls": [
+            "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/",
+            "https://www.axios.com/2026/07/30/openai-cuts-prices-gpt-terra-luna5"
+          ]
+        },
+        {
+          "title": "União Europeia começa a fiscalizar as regras de transparência da Lei de IA",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+          "secondary_urls": [
+            "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+          ]
+        },
+        {
+          "title": "Y Combinator abre o código do QM, agente multiusuário para empresas",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://qm.ycombinator.com/",
+          "secondary_urls": [
+            "https://github.com/yc-software/qm",
+            "https://x.com/ycombinator/status/2083243960684908768"
+          ]
+        },
+        {
+          "title": "Paper StateAct: agentes que leem o estado do programa em vez da tela",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2607.22798",
+          "secondary_urls": [
+            "https://huggingface.co/papers/2607.22798"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
