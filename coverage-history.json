@@ -919,12 +919,48 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-03",
+      "highlights": [
+        {
+          "title": "DeepSeek libera oficialmente o V4-Flash, com ganhos de desempenho sem mudança de preço",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.caixinglobal.com/2026-08-01/deepseek-releases-official-v4-flash-model-as-chinas-ai-race-intensifies-102470292.html",
+          "secondary_urls": [
+            "https://huggingface.co/blog/ResterChed/deepseek-v4-flash-official-release",
+            "https://benchlm.ai/models/deepseek-v4-flash"
+          ]
+        },
+        {
+          "title": "Sam Altman defende 'pacing' do desenvolvimento de IA, dias após brecha da OpenAI no Hugging Face",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "secondary_urls": [
+            "https://startupfortune.com/sam-altman-is-now-publicly-wrestling-with-ais-decel-debate/"
+          ]
+        },
+        {
+          "title": "OpenAI triplica pontuação no benchmark ARC-AGI-3 só ajustando duas configurações do GPT-5.6 Sol",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
+          "secondary_urls": [
+            "https://openai.com/index/building-abundant-intelligence/"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
     "medicina": {
-      "last_report": "2026-07-27",
-      "last_edition": 2
+      "last_report": "2026-08-03",
+      "last_edition": 3
     },
     "tech": {
       "last_report": "2026-07-29",
