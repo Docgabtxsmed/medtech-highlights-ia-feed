@@ -955,6 +955,44 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-04",
+      "highlights": [
+        {
+          "title": "GE HealthCare lança sistema de ultrassom mamário com IA para mamas densas",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://hitconsultant.net/2026/08/03/ge-healthcare-launches-invenia-abus-prime-streamvue-dense-breast-screening/",
+          "secondary_urls": [
+            "https://www.itnonline.com/content/ge-healthcares-new-invenia-abus-premium-accelerates-scanning-drives-early-cancer-detection",
+            "https://www.stocktitan.net/news/GEHC/ge-health-care-expands-breast-imaging-portfolio-with-invenia-abus-ztjhuiiymn1n.html"
+          ]
+        },
+        {
+          "title": "OpenAI revela o Astra ao publicar dez provas matemáticas inéditas verificadas formalmente",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://openai.com/index/ten-advances-in-mathematics/",
+          "secondary_urls": [
+            "https://siliconangle.com/2026/08/02/openais-astra-solves-10-long-open-math-problems-publishes-proofs/",
+            "https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups"
+          ]
+        },
+        {
+          "title": "Microsoft leva o Project Perception, sistema agêntico de cibersegurança, ao preview público",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.microsoft.com/en-us/security/business/ai-powered-cybersecurity/project-perception-agentic-system",
+          "secondary_urls": [
+            "https://www.geekwire.com/2026/microsoft-escalates-the-ai-cybersecurity-race-with-project-perception-and-a-new-in-house-model/",
+            "https://redmondmag.com/articles/2026/07/27/microsoft-unveils-project-perception.aspx"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
