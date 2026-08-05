@@ -993,6 +993,82 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-05",
+      "highlights": [
+        {
+          "title": "Alibaba lança Qwen3.8-Max, modelo aberto de 2,4 trilhões de parâmetros",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/",
+          "secondary_urls": [
+            "https://www.forbes.com/sites/tylerroush/2026/08/03/alibaba-unveils-qwen38-max-model-chinas-latest-ai-challenger-to-openai-and-anthropic/",
+            "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance"
+          ]
+        },
+        {
+          "title": "Estudo Fixify: agentes de IA já fazem 1/3 das ações de TI corporativa, com humano no loop",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://www.cio.com/article/4205069/ai-agents-get-better-at-it-ops-but-only-with-humans-in-the-loop-2.html",
+          "secondary_urls": [
+            "https://www.fixify.com/agentic-report",
+            "https://www.computerworld.com/article/4205062/ai-agents-get-better-at-it-ops-but-only-with-humans-in-the-loop.html"
+          ]
+        },
+        {
+          "title": "Anaconda adquire a Enkrypt AI para reforçar segurança de agentes de IA corporativos",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Negócios",
+          "primary_url": "https://www.anaconda.com/blog/anaconda-acquires-enkrypt-ai",
+          "secondary_urls": [
+            "https://www.hpcwire.com/aiwire/2026/08/04/anaconda-acquires-enkrypt-ai-to-secure-the-trillion-token-enterprise/"
+          ]
+        },
+        {
+          "title": "MIT propõe framework para expor falhas silenciosas de IA clínica multimodal",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://huggingface.co/papers/2608.01462",
+          "secondary_urls": [
+            "https://arxiv.org/abs/2608.01462"
+          ]
+        },
+        {
+          "title": "IA identifica insuficiência cardíaca com fração preservada até 9 meses antes do cuidado padrão",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.prnewswire.com/news-releases/american-heart-association-ai-assessment-lab-report-finds-ultromics-echogo-heart-failure-may-identify-hfpef-earlier-than-standard-care-302831397.html",
+          "secondary_urls": [
+            "https://www.healthcareitnews.com/news/ai-could-help-spot-heart-failure-signs-earlier-aha-report-shows"
+          ]
+        },
+        {
+          "title": "OpenAI lança plugins educacionais para ChatGPT Work e Codex",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/learn-teach-chatgpt-work-codex/",
+          "secondary_urls": []
+        },
+        {
+          "title": "Regras de transparência da Lei de IA da UE entram em vigor; obrigações de alto risco adiadas para 2027",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.winssolutions.org/eu-ai-act-education-deadline-deferred/",
+          "secondary_urls": [
+            "https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/",
+            "https://compliancehub.wiki/eu-digital-omnibus-ai-act-deadline-deferral-annex-iii-2027/"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
@@ -1001,8 +1077,8 @@
       "last_edition": 3
     },
     "tech": {
-      "last_report": "2026-07-29",
-      "last_edition": 2
+      "last_report": "2026-08-05",
+      "last_edition": 3
     },
     "misc": {
       "last_report": "2026-07-31",
