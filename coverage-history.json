@@ -1069,6 +1069,71 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-06",
+      "highlights": [
+        {
+          "title": "FDA autoriza IA que mede inflamação coronariana para estimar risco de infarto",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.medtechdive.com/news/caristo-wins-fda-authorization-for-cardiovascular-risk-predictor/826911/",
+          "secondary_urls": [
+            "https://www.caristo.com/caristo-diagnostics-cari-heart-coronary-inflammation-technology-authorized-by-u-s-fda/"
+          ]
+        },
+        {
+          "title": "Anthropic lança inspeção de prompts em tempo real para clientes corporativos",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://claude.com/blog/claude-enterprise-inference-hooks",
+          "secondary_urls": [
+            "https://www.unite.ai/anthropic-puts-inline-data-loss-prevention-inside-claude-enterprise/"
+          ]
+        },
+        {
+          "title": "xAI lança novo modelo de voz com ganhos de precisão e velocidade",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://x.ai/news/grok-voice-think-fast-2",
+          "secondary_urls": [
+            "https://finance.biggo.com/news/4bf16f12-1046-46f1-8d01-aa9649230336"
+          ]
+        },
+        {
+          "title": "Stripe cria agente interno de IA com LangGraph e Deep Agents e chega a 5 mil usuários em 4 semanas",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents",
+          "secondary_urls": [
+            "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform"
+          ]
+        },
+        {
+          "title": "Casa Branca conclui framework de avaliação de IA, mas mantém critérios em sigilo",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Negócios",
+          "primary_url": "https://www.axios.com/2026/08/03/white-house-finalizes-ai-framework-behind-closed-doors",
+          "secondary_urls": [
+            "https://fortune.com/2026/08/04/baffling-white-house-wont-publicly-release-ai-model-evaluation-framework-it-reviewed-today-with-openai-anthropic-microsoft-and-others/"
+          ]
+        },
+        {
+          "title": "Modelo de IA treinado em 5,24 milhões de exames hospitalares melhora diagnóstico por imagem cerebral",
+          "pilar": "Artigos científicos",
+          "trilha": "medicina",
+          "category": "Papers",
+          "primary_url": "https://www.nature.com/articles/s41591-026-04497-1",
+          "secondary_urls": [
+            "https://www.nature.com/articles/s41591-026-04567-4"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
