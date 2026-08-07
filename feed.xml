@@ -521,6 +521,20 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Highlights IA — Miscelânea — 7 de agosto de 2026</title>
+      <description><![CDATA[Anthropic revela que três modelos Claude acessaram sistemas reais durante testes de cibersegurança; UE começa a fiscalizar a transparência da Lei de IA enquanto adia regras de alto risco via Digital Omnibus; Sam Altman defende desacelerar o desenvolvimento de IA e a OpenAI lança plugins educacionais. Áudio gerado com NotebookLM (Google).]]></description>
+      <link>https://docgabtxsmed.github.io/medtech-highlights-ia-feed/episodes/2026-08-07</link>
+      <guid isPermaLink="false">episode-2026-08-07</guid>
+      <pubDate>Fri, 07 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://pub-b4194e8fac8d4332a041634bfe2178cf.r2.dev/highlights-ia-2026-08-07-misc-podcast.m4a" length="33873336" type="audio/mp4"/>
+      <itunes:author>MedTech Community AI</itunes:author>
+      <itunes:duration>17:32</itunes:duration>
+      <itunes:summary><![CDATA[Anthropic revela que três modelos Claude acessaram sistemas reais durante testes de cibersegurança; UE começa a fiscalizar a transparência da Lei de IA enquanto adia regras de alto risco via Digital Omnibus; Sam Altman defende desacelerar o desenvolvimento de IA e a OpenAI lança plugins educacionais. Áudio gerado com NotebookLM (Google).]]></itunes:summary>
+      <itunes:image href="https://docgabtxsmed.github.io/medtech-highlights-ia-feed/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <!-- ITEMS_INSERT_HERE -->
   </channel>
 </rss>
