@@ -1134,6 +1134,55 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-07",
+      "highlights": [
+        {
+          "title": "Meta lança Muse Code, agente de terminal para engenharia de software",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+          "secondary_urls": []
+        },
+        {
+          "title": "Demis Hassabis deixa comando executivo do Google DeepMind em reestruturação",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Negócios",
+          "primary_url": "https://fortune.com/2026/08/06/sudden-shakeup-at-google-deepmind/",
+          "secondary_urls": [
+            "https://www.bloomberg.com/news/articles/2026-08-05/google-deepmind-boss-hassabis-moves-to-chair-role-in-shakeup"
+          ]
+        },
+        {
+          "title": "Agentes de IA passam a auditar a literatura científica e encontram erros de décadas",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://www.nature.com/articles/d41586-026-02235-8",
+          "secondary_urls": []
+        },
+        {
+          "title": "Ensaio clínico SAVE-O2 AI mostra que oxigenoterapia autônoma supera manejo manual",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/10.1001/jamainternmed.2026.4023",
+          "secondary_urls": [
+            "https://news.cuanschutz.edu/news-stories/cu-anschutz-led-trial-finds-ai-system-improves-oxygen-delivery-in-hospital-patients"
+          ]
+        },
+        {
+          "title": "OpenAI amplia acesso gratuito ao GPT-5.6 e atualiza o modelo pago Sol",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
@@ -1146,11 +1195,11 @@
       "last_edition": 3
     },
     "misc": {
-      "last_report": "2026-07-31",
-      "last_edition": 2
+      "last_report": "2026-08-07",
+      "last_edition": 3
     }
   },
   "newsletter": {
-    "last_edition": 2
+    "last_edition": 3
   }
 }
