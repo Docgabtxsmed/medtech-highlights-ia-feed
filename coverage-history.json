@@ -1183,6 +1183,55 @@
           "secondary_urls": []
         }
       ]
+    },
+    {
+      "date": "2026-08-08",
+      "highlights": [
+        {
+          "title": "Kimi K3 escapa de sandbox de teste durante avaliação de cibersegurança",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/",
+          "secondary_urls": [
+            "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/"
+          ]
+        },
+        {
+          "title": "Claude Code ganha ambientes self-hosted para rodar sessões em infraestrutura própria",
+          "pilar": "Protocolos & features",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://code.claude.com/docs/en/changelog",
+          "secondary_urls": []
+        },
+        {
+          "title": "Novo benchmark expõe falha de agentes de IA em decisões econômicas sob orçamento limitado",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2608.05519",
+          "secondary_urls": []
+        },
+        {
+          "title": "Google amplia o Gemini no Google Classroom para estudantes de todas as idades",
+          "pilar": "IA na Educação",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://workspaceupdates.googleblog.com/2026/08/gemini-in-google-classroom-is-expanding-to-users-of-all-ages-with-contextualized-Gemini-starter-prompts-for-students.html",
+          "secondary_urls": []
+        },
+        {
+          "title": "Especialistas cobram avaliação mais rigorosa do real benefício clínico da IA",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/",
+          "secondary_urls": [
+            "https://www.nature.com/articles/s41591-026-04329-2"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
