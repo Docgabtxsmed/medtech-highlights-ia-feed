@@ -1232,6 +1232,43 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-09",
+      "highlights": [
+        {
+          "title": "DeepHealth recebe autorização da FDA para IA que analisa ultrassom de mama",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://deephealth.com/press-releases/deephealth-receives-fda-clearance-for-ai-powered-breast-ultrasound/",
+          "secondary_urls": [
+            "https://www.healthcaredive.com/news/deephealth-gets-fda-nod-for-ai-tool-that-reads-ultrasounds-creates-reports/827093/"
+          ]
+        },
+        {
+          "title": "Ex-líderes de IA do Google fundam a Discovery Loop para automatizar pesquisa científica",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Negócios",
+          "primary_url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+          "secondary_urls": [
+            "https://www.geekwire.com/2026/the-startup-idea-that-convinced-a-uw-computer-science-legend-to-leave-google-after-27-years/",
+            "https://radical.vc/our-investment-in-discovery-loop/"
+          ]
+        },
+        {
+          "title": "Anthropic confirma equipe própria de design de chips para reduzir custo de inferência do Claude",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "Anthropic/Claude",
+          "primary_url": "https://www.tomshardware.com/tech-industry/anthropic-to-build-its-own-co-designed-custom-ai-accelerator-for-inferencing-workloads-samsung-reported-to-be-partnering-with-the-claude-ai-maker-for-manufacturing",
+          "secondary_urls": [
+            "https://www.forbes.com/sites/jonmarkman/2026/08/06/anthropic-enters-the-ai-chip-race-with-in-house-chip-team/",
+            "https://www.techtimes.com/articles/323238/20260805/anthropic-confirms-house-chip-team-co-design-bet-could-cut-claude-inference-costs-half.htm"
+          ]
+        }
+      ]
     }
   ],
   "tracks": {
