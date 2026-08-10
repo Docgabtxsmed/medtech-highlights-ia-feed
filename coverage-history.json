@@ -1269,12 +1269,66 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-08-10",
+      "highlights": [
+        {
+          "title": "ARPA-H financia robô de navegação magnética para automatizar tratamento de AVC",
+          "pilar": "IA na Saúde",
+          "trilha": "medicina",
+          "category": "Saúde",
+          "primary_url": "https://www.globenewswire.com/news-release/2026/08/08/3341434/0/en/magnendo-awarded-up-to-32m-by-arpa-h-to-advance-autonomous-robotic-stroke-intervention.html",
+          "secondary_urls": [
+            "https://interestingengineering.com/ai-robotics/us-backs-autonomous-stroke-treatment-robot",
+            "https://theaiinsider.tech/2026/08/08/magnendo-awarded-up-to-32m-by-arpa-h-to-advance-autonomous-robotic-stroke-intervention/"
+          ]
+        },
+        {
+          "title": "Cloudflare lança Kitesurf, navegador construído para agentes de IA",
+          "pilar": "Engenharia de IA",
+          "trilha": "tech",
+          "category": "Outras ferramentas",
+          "primary_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+          "secondary_urls": [
+            "https://blog.cloudflare.com/kitesurf/"
+          ]
+        },
+        {
+          "title": "Mistral lança Shieldstral, classificador de segurança aberto e adaptável a novas políticas",
+          "pilar": "Modelos & Labs",
+          "trilha": "tech",
+          "category": "LLMs/Frameworks",
+          "primary_url": "https://mistral.ai/news/shieldstral/",
+          "secondary_urls": [
+            "https://arxiv.org/abs/2607.25857"
+          ]
+        },
+        {
+          "title": "Pesquisadores da Tsinghua propõem método para identificar decisões decisivas de agentes de IA",
+          "pilar": "Artigos científicos",
+          "trilha": "tech",
+          "category": "Papers",
+          "primary_url": "https://arxiv.org/abs/2608.05987",
+          "secondary_urls": [
+            "https://huggingface.co/papers/2608.05987"
+          ]
+        },
+        {
+          "title": "Pangram capta US$ 9 milhões e lança nova geração de detectores de conteúdo gerado por IA",
+          "pilar": "IA no dia a dia",
+          "trilha": "misc",
+          "category": "Outras ferramentas",
+          "primary_url": "https://theaiinsider.tech/2026/08/07/ai-detection-startup-pangram-announces-9m-in-funding-launches-new-text-and-image-detection-models/",
+          "secondary_urls": []
+        }
+      ]
     }
   ],
   "tracks": {
     "medicina": {
-      "last_report": "2026-08-03",
-      "last_edition": 3
+      "last_report": "2026-08-10",
+      "last_edition": 4
     },
     "tech": {
       "last_report": "2026-08-05",
